@@ -1,0 +1,14 @@
+classe medicament
+
+id medicament
+nom
+prix 
+besoin de prescription
+description
+
+
+yon tableau description
+
+id description
+nom composant
+quantite composant
